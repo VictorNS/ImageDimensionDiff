@@ -1,0 +1,8 @@
+{
+	"profiles": {
+		"ConsoleAppFindSameNames": {
+			"commandName": "Project",
+			"commandLineArgs": "c:\\Temp\\1 c:\\Temp\\2",
+		}
+	}
+}
